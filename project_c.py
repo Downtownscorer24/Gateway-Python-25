@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 30 15:24:16 2025
-
-@author: Kai
-"""
 
 
 import math
@@ -306,3 +301,4 @@ if __name__ == "__main__":
                     
         elif choice == "a":
             add_new_bed(garden)
+
